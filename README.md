@@ -1,28 +1,28 @@
 <div align="center">
 
-  <!-- 1. КРАСИВЫЙ ШРИФТ -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=180&section=header&text=ovtcasted&fontColor=A855F7&fontSize=55&animation=fadeIn&fontFamily=Montserrat" width="100%" />
+  <!-- 1. ШАПКА (Бордовый/Фиолетовый текст на черном) -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=150&section=header&text=ovtcasted&fontColor=4C1D95&fontSize=50&animation=fadeIn" width="100%" />
 
   <br><br>
 
-  <!-- 2. ИКОНКИ СТЕКА -->
+  <!-- 2. СТЕК -->
   <img src="https://skillicons.dev/icons?i=html,css,python,git,github,vscode&theme=dark" alt="skills" />
 
   <br><br>
 
-  <!-- 3. ТВОЙ КРЕСТ ВМЕСТО ОГОНЬКА -->
-  <img src="https://img.shields.io/badge/%E2%9C%A0-CURRENT_STREAK:_2_DAYS-A855F7?style=for-the-badge&labelColor=0D1117&logoColor=white" alt="streak" />
+  <!-- 3. КРЕСТ (Бордовый фон) -->
+  <img src="https://img.shields.io/badge/%E2%9C%A0-CURRENT_STREAK:_2_DAYS-4C1D95?style=for-the-badge&labelColor=000000&logoColor=white" alt="streak" />
 
   <br><br>
 
-  <!-- 4. СТАБИЛЬНАЯ СТАТИСТИКА (альтернативный сервер, который не падает) -->
+  <!-- 4. СТАТИСТИКА (Без иконок, строго фиолетовый текст) -->
   <table align="center" style="border-collapse: collapse; border: none;">
     <tr>
       <td align="center" style="border: none; padding: 0 10px;">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ovtcasted&theme=radical" alt="Stats" width="100%" />
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ovtcasted&show_icons=false&bg_color=000000&title_color=4C1D95&text_color=FFFFFF&hide_border=true" alt="Stats" />
       </td>
       <td align="center" style="border: none; padding: 0 10px;">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ovtcasted&theme=radical" alt="Top Langs" width="100%" />
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ovtcasted&layout=compact&bg_color=000000&title_color=4C1D95&text_color=FFFFFF&hide_border=true&hide_title=true" alt="Top Langs" />
       </td>
     </tr>
   </table>
