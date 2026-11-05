@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 320" width="100%">
+  <rect width="100%" height="100%" fill="#050505" />
+  <text x="50%" y="5" text-anchor="middle" font-family="Courier New, monospace" font-size="18" fill="#8B0000">
+    <tspan x="50%" dy="0">acc. #ovtcasted</tspan>
+    <tspan x="50%" dy="30">update : frontend developer</tspan>
+    <tspan x="50%" dy="40">vampir ✠ e @ovtcasted</tspan>
+    <tspan x="50%" dy="30">html // css // python ✠ frontend . 100%</tspan>
+    <tspan x="50%" dy="30">total commits: 14 ; streak: 2 days</tspan>
+    <tspan x="50%" dy="40">// status: online</tspan>
+    <tspan x="50%" dy="30">// role: frontend developer</tspan>
+    <tspan x="50%" dy="30">// stack: html, css, python</tspan>
+    <tspan x="50%" dy="30">// system: active</tspan>
+  </text>
+</svg>
