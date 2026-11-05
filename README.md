@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="bg.jpg" width="100%" style="border-radius: 12px; border: 2px solid #8B0000; margin-bottom: 25px;" alt="ovtcasted" />
+  <img src="16.jpg" width="100%" style="border-radius: 12px; border: 2px solid #8B0000; margin-bottom: 25px;" alt="ovtcasted" />
 
   <div style="background-color: #0a0a0a; border: 1px solid #333; border-radius: 10px; padding: 30px; color: #d3d3d3; font-family: 'Courier New', monospace; line-height: 1.6;">
     <div style="font-size: 20px; color: #8B0000; letter-spacing: 3px; margin-bottom: 15px;">
