@@ -3,6 +3,6 @@
     <td style="padding: 0; border: none;"><img src="photo_2026-11-06_01-30-16.jpg" width="100%" style="display: block;" alt="banner" /></td>
   </tr>
   <tr>
-    <td style="padding: 0; border: none;"><img src="info_v2.svg?v=2" width="100%" style="display: block;" alt="info" /></td>
+    <td style="padding: 0; border: none;"><img src="info_v2.svg?v=3" width="100%" style="display: block;" alt="info" /></td>
   </tr>
 </table>
