@@ -1,17 +1,5 @@
 <div align="center">
   <img src="photo_2026-11-06_01-30-16.jpg" width="100%" style="border-radius: 12px; border: 2px solid #8B0000; margin-bottom: 20px; display: block;" alt="ovtcasted" />
 
-  <div style="background-color: #050505; border: 1px solid #4a0000; border-radius: 12px; padding: 30px 20px; font-family: 'Courier New', monospace; line-height: 1.8; text-align: center;">
-    <font color="#8B0000">
-      acc. #ovtcasted<br>
-      update : frontend developer<br><br>
-      vampir ✠ e @ovtcasted<br>
-      html // css // python ✠ frontend . 100%<br>
-      total commits: 14 ; streak: 2 days<br><br>
-      // status: online<br>
-      // role: frontend developer<br>
-      // stack: html, css, python<br>
-      // system: active
-    </font>
-  </div>
+  <img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNjAwIiBoZWlnaHQ9IjMyMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICA8cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSIjMDUwNTA1IiByeD0iMTIiIHJ5PSIxMiIgc3Ryb2tlPSIjNGEwMDAwIiBzdHJva2Utd2lkdGg9IjEiLz4KICA8dGV4dCB4PSI1MCUiIHk9IjE1JSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkNvdXJpZXIgTmV3LCBtb25vc3BhY2UiIGZvbnQtc2l6ZT0iMTYiIGZpbGw9IiM4QjAwMDAiPgogICAgPHRzcGFuIHg9IjUwJSIgZHk9IjAiPmFjYy4gI292dGNhc3RlZDwvdHNwYW4+CiAgICA8dHNwYW4geD0iNTAlIiBkeT0iMjUiPnVwZGF0ZSA6IGZyb250ZW5kIGRldmVsb3BlcjwvdHNwYW4+CiAgICA8dHNwYW4geD0iNTAlIiBkeT0iNDAiPnZhbXBpciDinKAgZSBAb3Z0Y2FzdGVkPC90c3Bhbj4KICAgIDx0c3BhbiB4PSI1MCUiIGR5PSIyNSI+aHRtbCAvLyBjc3MgLy8gcHl0aG9uIOKcoCBmcm9udGVuZCAuIDEwMCU8L3RzcGFuPgogICAgPHRzcGFuIHg9IjUwJSIgZHk9IjI1Ij50b3RhbCBjb21taXRzOiAxNCA7IHN0cmVhazogMiBkYXlzPC90c3Bhbj4KICAgIDx0c3BhbiB4PSI1MCUiIGR5PSI0MCI+Ly8gc3RhdHVzOiBvbmxpbmU8L3RzcGFuPgogICAgPHRzcGFuIHg9IjUwJSIgZHk9IjI1Ij4vLyByb2xlOiBmcm9udGVuZCBkZXZlbG9wZXI8L3RzcGFuPgogICAgPHRzcGFuIHg9IjUwJSIgZHk9IjI1Ij4vLyBzdGFjazogaHRtbCwgY3NzLCBweXRob248L3RzcGFuPgogICAgPHRzcGFuIHg9IjUwJSIgZHk9IjI1Ij4vLyBzeXN0ZW06IGFjdGl2ZTwvdHNwYW4+CiAgPC90ZXh0Pgo8L3N2Zz4=" width="100%" alt="info" />
 </div>
