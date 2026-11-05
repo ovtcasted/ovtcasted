@@ -1,12 +1,12 @@
 <div align="center">
 
-  <!-- 1. ВЕРХНИЙ БЛОК (Имитация штрихкода) -->
+  <!-- 1. ВЕРХНИЙ БЛОК (Фиолетовый штрихкод и текст) -->
   <table width="90%" style="border: 1px solid #444; border-collapse: collapse; background-color: #0a0a0a; text-align: center;">
     <tr>
-      <td style="padding: 15px; font-family: 'Courier New', monospace; color: #a0a0a0; font-size: 14px;">
-        <span style="font-size: 24px; color: #fff; letter-spacing: 2px;">▌▌▌▌▌▌▌▌▌▌</span> <br>
-        <span style="color: #666;">acc. #ovtcasted</span> <br>
-        <span style="font-style: italic;">update : frontend developer // dark mode</span>
+      <td style="padding: 15px; font-family: 'Courier New', monospace; color: #A855F7; font-size: 14px;">
+        <span style="font-size: 24px; color: #A855F7; letter-spacing: 2px;">▌▌▌▌▌▌▌▌▌▌</span> <br>
+        <span style="color: #A855F7;">acc. #ovtcasted</span> <br>
+        <span style="font-style: italic;">update : frontend developer</span>
       </td>
     </tr>
   </table>
