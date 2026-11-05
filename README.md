@@ -1,6 +1,6 @@
 <div align="center">
 
-  <!-- 1. ТОНКИЙ КРАСИВЫЙ ШРИФТ (Montserrat) -->
+  <!-- 1. КРАСИВЫЙ ШРИФТ -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=180&section=header&text=ovtcasted&fontColor=A855F7&fontSize=55&animation=fadeIn&fontFamily=Montserrat" width="100%" />
 
   <br><br>
@@ -15,23 +15,16 @@
 
   <br><br>
 
-  <!-- 4. КРУЖОЧКИ И СТАТИСТИКА (в таблице, чтобы стояли ровно) -->
+  <!-- 4. СТАБИЛЬНАЯ СТАТИСТИКА (альтернативный сервер, который не падает) -->
   <table align="center" style="border-collapse: collapse; border: none;">
     <tr>
       <td align="center" style="border: none; padding: 0 10px;">
-        <!-- Плашка с общей статистикой -->
-        <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ovtcasted&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=94A3B8&icon_color=A855F7" alt="Stats" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ovtcasted&theme=radical" alt="Stats" width="100%" />
       </td>
       <td align="center" style="border: none; padding: 0 10px;">
-        <!-- Круглая диаграмма (донат) с языками -->
-        <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ovtcasted&layout=donut&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=94A3B8&hide_title=true" alt="Top Langs" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ovtcasted&theme=radical" alt="Top Langs" width="100%" />
       </td>
     </tr>
   </table>
-
-  <br><br>
-
-  <!-- 5. ГРАФИК АКТИВНОСТИ -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ovtcasted&bg_color=0D1117&color=A855F7&line=A855F7&point=FFFFFF&area=true&hide_border=true" alt="graph" width="100%" />
 
 </div>
