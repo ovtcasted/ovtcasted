@@ -10,13 +10,23 @@
 
   <br><br>
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ovtcasted&show_icons=true&bg_color=000000&title_color=A855F7&icon_color=A855F7&text_color=94A3B8&border_color=3B0764&hide_border=false&border_radius=8" alt="stats" />
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ovtcasted&layout=compact&bg_color=000000&title_color=A855F7&text_color=94A3B8&border_color=3B0764&hide_border=false&border_radius=8&hide_title=true" alt="langs" />
+  <!-- кастомная карточка со стриком -->
+  <table align="center" style="border-collapse: collapse; background-color: #000000; border: 1px solid #3B0764; border-radius: 12px;">
+    <tr>
+      <td align="center" style="padding: 20px 40px;">
+        <div style="color: #A855F7; font-size: 32px; margin-bottom: 8px;">⚜️</div>
+        <div style="color: #FFFFFF; font-size: 36px; font-weight: bold; line-height: 1; margin-bottom: 5px;">2</div>
+        <div style="color: #A855F7; font-size: 16px; font-weight: bold; margin-bottom: 5px;">current streak</div>
+        <div style="color: #94A3B8; font-size: 14px;">nov 5 - nov 6</div>
+      </td>
+    </tr>
+  </table>
 
   <br><br>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ovtcasted&background=000000&border=3B0764&stroke=A855F7&ring=A855F7&fire=A855F7&currStreakNum=FFFFFF&currStreakLabel=A855F7&sideNums=94A3B8&sideLabels=94A3B8&dates=94A3B8&border_radius=8" alt="streak" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ovtcasted&show_icons=true&bg_color=000000&title_color=A855F7&icon_color=A855F7&text_color=94A3B8&border_color=3B0764&hide_border=false&border_radius=8" alt="stats" />
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ovtcasted&layout=compact&bg_color=000000&title_color=A855F7&text_color=94A3B8&border_color=3B0764&hide_border=false&border_radius=8&hide_title=true" alt="langs" />
 
   <br><br>
 
